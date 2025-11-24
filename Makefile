@@ -17,7 +17,7 @@ run: all
 
 clean:
 	rm -f my_program *.o
-	
-make
+
+make:
 make run
 make clean
